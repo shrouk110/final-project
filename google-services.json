@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "650223065779",
+    "project_id": "vision-care-dcebe",
+    "storage_bucket": "vision-care-dcebe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650223065779:android:bb576256b9129109626ec6",
+        "android_client_info": {
+          "package_name": "com.example.graduate_data_set"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650223065779-82smninhm9d9681h77jnjks89lift5ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.graduate_data_set",
+            "certificate_hash": "63b42683c9836d53e2fa5ee386f906c5d9d55254"
+          }
+        },
+        {
+          "client_id": "650223065779-puefjbmr67k299d5nej2ku5ilbkre62e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneyFiqVDR1KkpajQM6FhAmN4pOW-rbjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650223065779-puefjbmr67k299d5nej2ku5ilbkre62e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650223065779-0aa8j31evu9tljg5fbbo72f9l83r4be0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.graduateDataSet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
